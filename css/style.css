@@ -132,7 +132,7 @@
 /*---------- End navbar ----------*/
 
 .header{
-	background-image: url(/image/header1.jpg);
+	background-image: url(image/header1.jpg);
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: center;
